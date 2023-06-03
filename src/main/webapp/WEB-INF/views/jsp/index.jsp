@@ -41,7 +41,7 @@
 	<div class="row">
 		<div class="col-md-8">
 			<h2>Welcome To Trelix, Bengaluru, Inida ,Karnataka.</h2>
-			<h3>Contact @ +91 7670900191,+91 8555981398</h3>
+			<h3>Contact @ +91 7670900191,+91 9640008202</h3>
 		</div>	
 	</div>
 
